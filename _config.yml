@@ -9,7 +9,7 @@ permalink:        pretty
 title:            sysdump.de
 tagline:          ..da hilft auch kein debugging mehr!
 url:              http://sysdump.de
-paginate:         1
+paginate:         2
 baseurl:          /
 author:
   name:           derMerl
@@ -17,6 +17,6 @@ author:
   email:          merl@sysdump.de
 
 # Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+# version:          1.0.0
+# github:
+#   repo:           https://github.com/poole/poole
