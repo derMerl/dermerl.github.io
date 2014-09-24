@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            sysdump.de
+tagline:          ..da hilft auch kein debugging mehr!
+url:              http://sysdump.de
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           derMerl
+  url:            https://twitter.com/dermerl
+  email:          merl@sysdump.de
 
 # Custom vars
 version:          1.0.0
