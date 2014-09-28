@@ -5,7 +5,6 @@ title: About
 
 ##About
 
-[<img class="src="http://www.sysdump.de/img/me.png" alt="me">][1]
-Sysadmin, Pilshuser Jung, Geek und Trekkingfan aus dem Oldenburger Land. Blogge hier über die Resultate meines ganz persönlichen sysdumps. 
-IT, Web, Games, Geek Stuff, Outdoor und ein wenig Wahnsinn..
- [1]: http://www.sysdump.de/img/me.png
+[<img class="src="{{ site.baseurl }}/img/me.png" alt="me">][1]
+Sysadmin, <a href="https://www.facebook.com/Pilshusen" target="_blank">Pilshuser Jung</a>, Geek und Trekkingfan aus dem Oldenburger Land. Blogge hier über die Resultate meines ganz persönlichen sysdumps. <br>IT, Web, Games, Geek Stuff, Outdoor und ein wenig Wahnsinn..</p><br>
+ [1]: {{ site.baseurl }}/img/me.png
