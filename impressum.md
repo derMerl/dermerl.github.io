@@ -7,8 +7,6 @@ Angaben gemäß § 5 TMG & Verantwortlich für den Inhalt nach § 55 Abs. 2 RSt
 
 [<img class="alignleft wp-image-556 size-full" src="http://www.sysdump.de/wp-content/uploads/2013/01/Impressum1.png" alt="Impressum" width="200" height="200" />][1]
 
-&nbsp;
-
 ** **
 
 Ich widerspreche ausdrücklich der Nutzung und/oder Übermittlung meiner hier genannten Kontaktdaten für kommerzielle Zwecke oder für die Markt- bzw. Meinungsforschung (§ 28 Abs. 4 BDSG).
