@@ -1,18 +1,20 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            sysdump.de
-tagline:          ..da hilft auch kein debugging mehr!
+tagline:          '..da hilft auch kein debugging mehr!'
 url:              http://sysdump.de
-paginate:         8
 baseurl:          /
+
 author:
   name:           derMerl
   url:            https://twitter.com/dermerl
   email:          merl@sysdump.de
 
+paginate:         5
