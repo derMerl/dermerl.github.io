@@ -9,7 +9,7 @@ permalink:        pretty
 title:            sysdump.de
 tagline:          ..da hilft auch kein debugging mehr!
 url:              http://sysdump.de
-paginate:         999
+paginate:         10
 baseurl:          /
 author:
   name:           derMerl
