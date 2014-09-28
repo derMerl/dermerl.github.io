@@ -4,24 +4,13 @@
   {% include head.html %}
 
   <body>
-
+{% include sidebar.html %}
     <div class="container content">
       <div class="masthead">
         <h2 class="masthead-title">
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
           <small>{{ site.tagline }}</small>              
         </h2>
-		<h3 class="masthead-title">
-			&nbsp;&nbsp;&nbsp;<small><a href="/about/">About</a></small>
-            &nbsp;&nbsp;&nbsp;<small><a href="/archive/">Log</a></small>
-			&nbsp;&nbsp;&nbsp;<small><a href="/impressum/">Impressum</a></small>
-            &nbsp;&nbsp;&nbsp;<small><a href="/atom.xml">Feed</a></small>
-			<br>
-			&nbsp;&nbsp;&nbsp;<small><a href="http://www.amazon.de/registry/wishlist/2LA4A795MB2DE">Wunschzettel</a></small>
-			&nbsp;&nbsp;&nbsp;<small><a href="https://www.datenschorle.de/">Datenschorle</a></small>
-			&nbsp;&nbsp;&nbsp;<small><a href="https://www.nachtlog.de/">Nachtlog</a></small>
-			&nbsp;&nbsp;&nbsp;<small><a href="https://www.teksyndicate.de/">Teksyndicate</a></small>
-		</h3>
 	  </div>
 
       {{ content }}
